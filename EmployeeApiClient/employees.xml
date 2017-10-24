@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployeesResponseData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeesResponseData>
+    <Id>7</Id>
+    <FullName>Студина Надежда Ивановна</FullName>
+    <AverageSalary>50000.0000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>6</Id>
+    <FullName>Шмыгин Максим Алексеевич</FullName>
+    <AverageSalary>45760.00000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>9</Id>
+    <FullName>Игнатьева Анастасия Федоровна</FullName>
+    <AverageSalary>41600.00000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>3</Id>
+    <FullName>Малышева Екатерина Семеновна</FullName>
+    <AverageSalary>40000.0000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>2</Id>
+    <FullName>Семенов Николай Николаевич</FullName>
+    <AverageSalary>35000.0000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>5</Id>
+    <FullName>Удальцов Александр Евгеньевич</FullName>
+    <AverageSalary>33280.00000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>11</Id>
+    <FullName>a a a</FullName>
+    <AverageSalary>33280.00000</AverageSalary>
+  </EmployeesResponseData>
+  <EmployeesResponseData>
+    <Id>8</Id>
+    <FullName>Иванов Иван Иванович</FullName>
+    <AverageSalary>33000.0000</AverageSalary>
+  </EmployeesResponseData>
+</ArrayOfEmployeesResponseData>
